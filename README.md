@@ -1,17 +1,17 @@
-# bemquery-package-boilerplate
+# bemquery
 
-[![Build Status](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate.svg?branch=master)](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate) [![Dependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate) [![devDependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate/dev-status.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate#info=devDependencies)
+[![Build Status](https://travis-ci.org/didnotwant/bemquery.svg?branch=master)](https://travis-ci.org/didnotwant/bemquery) [![Dependency Status](https://david-dm.org/didnotwant/bemquery.svg)](https://david-dm.org/didnotwant/bemquery) [![devDependency Status](https://david-dm.org/didnotwant/bemquery/dev-status.svg)](https://david-dm.org/didnotwant/bemquery#info=devDependencies)
 
-Simple boilerplate
+Simple bemquery library
 
 ---
 
 ## Installation
 
 ```bash
-npm install bemquery-package-boilerplate [--save]
+npm install bemquery [--save]
 ```
 
 ## Documentation
 
-Docs are available at http://bemquery.github.io/bemquery-package-boilerplate
+Docs are available at http://didnotwant.github.io/bemquery
